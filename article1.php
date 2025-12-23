@@ -7,7 +7,7 @@
 <body>
 <div id="wrapper">
     <div id="container">
-        <header><img src="images/Header.png"></header>
+        <header><img src="Header.png"></header>
         <nav>
 		<ul>
 			<li><a href="index.php">Beranda</a></li>
@@ -35,7 +35,7 @@
         <article>
             <div id="single">
                 <h2>Belajar Web dengan HTML + CSS3</h2>
-                <img src="images/article1.jpg" width="100%" style="border-radius:10px; margin:10px 0;">
+                <img src="article1.jpg" width="100%" style="border-radius:10px; margin:10px 0;">
                 <p>
                     HTML dan CSS merupakan dua teknologi dasar yang wajib dipahami dalam pengembangan website. HTML (HyperText Markup Language) berfungsi sebagai kerangka atau struktur utama halaman web, sedangkan CSS (Cascading Style Sheets) digunakan untuk mengatur tampilan visual seperti warna, ukuran huruf, tata letak, dan desain keseluruhan halaman.
                 </p>
@@ -120,3 +120,4 @@
 </div>
 </body>
 </html>
+
