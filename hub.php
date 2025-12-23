@@ -7,7 +7,7 @@
 <body>
 <div id="wrapper">
     <div id="container">
-        <header><img src="images/Header.png"></header>
+        <header><img src="Header.png"></header>
         <nav>
 		<ul>
 			<li><a href="index.php">Beranda</a></li>
@@ -46,4 +46,5 @@
     </div>
 </div>
 </body>
+
 </html>
