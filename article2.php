@@ -7,7 +7,7 @@
 <body>
 <div id="wrapper">
     <div id="container">
-        <header><img src="images/Header.png"></header>
+        <header><img src="Header.png"></header>
         <nav>
 		<ul>
 			<li><a href="index.php">Beranda</a></li>
@@ -35,7 +35,7 @@
         <article>
             <div id="single">
                 <h2>Perbedaan PHP dan HTML</h2>
-                <img src="images/article2.jpg" width="100%" style="border-radius:10px; margin:10px 0;">
+                <img src="article2.jpg" width="100%" style="border-radius:10px; margin:10px 0;">
 
                 <p>
                     HTML dan PHP merupakan dua teknologi penting dalam pengembangan website, namun keduanya memiliki fungsi yang berbeda. HTML (HyperText Markup Language) digunakan untuk membangun struktur dan tampilan dasar halaman web, sedangkan PHP (Hypertext Preprocessor) merupakan bahasa pemrograman server-side yang digunakan untuk mengolah data.
@@ -119,3 +119,4 @@
 </div>
 </body>
 </html>
+
