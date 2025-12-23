@@ -7,7 +7,7 @@
 <body>
 <div id="wrapper">
     <div id="container">
-        <header><img src="images/Header.png"></header>
+        <header><img src="Header.png"></header>
 		<nav>
 		<ul>
 			<li><a href="index.php">Beranda</a></li>
@@ -35,7 +35,7 @@
         <article>
             <div id="single">
                 <h2>Desain Web Statis</h2>
-                <img src="images/article3.png" width="100%" style="border-radius:10px; margin:10px 0;">
+                <img src="article3.png" width="100%" style="border-radius:10px; margin:10px 0;">
 
                 <p>
                     Desain web statis adalah jenis website yang menampilkan konten tetap dan tidak berubah secara otomatis. Website statis biasanya dibangun menggunakan HTML dan CSS tanpa melibatkan database atau proses server yang kompleks.
@@ -119,3 +119,4 @@
 </div>
 </body>
 </html>
+
