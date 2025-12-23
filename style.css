@@ -7,7 +7,7 @@ header{
 	height:120px;
 	width:960px;
 	float:left;
-	background:url(Header.png);
+	background:url(header.png);
 }
 nav{
 	height:40px;
@@ -154,4 +154,5 @@ footer #column h2{
 footer #column a{
 	color:#0099CC;
 	text-decoration:none;
+
 }
